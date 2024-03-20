@@ -22,3 +22,5 @@ For more details on how to install, configure and use PeopleMagnet, see our Docu
 
 #License
 PeopleMagnet is distributed under the MIT license, which means you can freely use it in your commercial and personal projects.
+
+By Jeol De Ariovaldo
